@@ -1,0 +1,70 @@
+<div id="folha">
+  <div id="estrutura">
+    <img src="https://lh3.googleusercontent.com/-fT_8qomRapE/Xqt6IzYe2AI/AAAAAAAAKmQ/2eddkiiM4hAo9E3HoFNfQzVy0S9ti0GVACEwYBhgL/w140-h140-p/lera.jpg" id="profilepic">
+    
+    <h2 id="nome">
+      Paulo L Nogueira N
+    </h2>
+    <p id="nasc">
+      <b>Nascimento: 29/11/1997 - 22 Anos</b>
+    </p>
+    
+    <div class="aba">
+      <h1>
+        Dados Pessoais
+      </h1>
+      <hr class="sep">
+      <h3 class="dados">
+        Nome Completo: Paulo Lúcio Nogueira Neto
+        <br>
+        Nascimento: 29/11/1997 - 22 Anos
+        <br>
+        Cidade: Bragança Paulista
+        <br>
+        Estado: SP
+        <br>
+        Endereço: Travessa Padre José Orlando Siqueira do Amaral, 100
+        <br>
+        Bairro: Santa Luzia
+        <br>
+        CEP: 12919604
+        <br>
+        Contato: Vivo - (11) 956551997
+        <br>
+        Email: paul.nogz@gmail.com
+        <br>
+        Instagram: @paul.lera
+                    			@leraverso
+      </h3>
+    </div>
+    
+     <div class="aba">
+      <h1>
+        Experiência
+      </h1>
+      <hr class="sep">
+      <h3 class="dados">
+        Adobe Photoshop: Intermediário
+        <br>
+        Adobe Illustrator: Inciante
+        <br>
+        Pacote Office: Experiente
+        <br>
+        Outros: Experiente em desenho com nanquim e bico de pena, e sketches com lápis. Estou começando a realizar pinturas digitais no adobe photoshop, e tenho experiência em diagramação.
+        <br>
+      </h3>
+    </div>
+    
+    
+    <div class="aba2">
+      <h1>
+       Objetivos
+      </h1>
+      <hr class="sep">
+      <img src="https://sejapregador.com/wp-content/uploads/2018/11/Aspas.png">
+      <h3>
+        Procuro aprimorar minhas habilidades em softwares de criação e edição, e espero um dia trabalhar profissionalmente com pintura digital e ilustração. Procuro ambientes de trabalho que me estimulem a evoluir cada vez mais, e que me incentivem a dar o meu melhor. Estou sempre disposto a trabalhar com pessoas confiantes e determinadas, e procuro sempre aprender um pouco de tudo que é do meu interesse ou que seja necessário."
+      </h3>
+    </div>
+  </div>
+</div>
